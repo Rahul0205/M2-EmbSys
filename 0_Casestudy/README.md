@@ -1,3 +1,5 @@
+# Case study-1
+
 # Gas Leakage detector
 
 ## components required
@@ -20,6 +22,10 @@
 * Buzzer is a kind of voice device that converts audio model into sound signal. It is mainly used to prompt or alarm. 
 
 
+
+
+# Case study-2
+
 # water level detector
 
 ## components required
@@ -37,10 +43,6 @@
 
 5.Ultrasonic Sensor 
 * An ultrasonic sensor is an electronic device that measures the distance of a target object by emitting ultrasonic sound waves, and converts the reflected sound into an electrical signal.
-
-6.Water Pump
-* Water pump is used to fill the water in the tank.
-
 
 
 
