@@ -1,8 +1,8 @@
-# Security system using Ultrasonic sensor
+# Distance calculating system using Ultrasonic sensor
 
 
 ## Abstarct
-
+In the old times calculating distance was much difficult. But today it has become so easy by using the modern technique which involves many kind of sensor,actuators etc.A servo motor is also known for its rotation with great precision. And what would be better than giving that precise distance/rotation using an ultrasonic sensor. So using 
 
 
 ## Requirements
