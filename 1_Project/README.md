@@ -1,10 +1,13 @@
-## abstarct
+# Security system using Ultrasonic sensor
+
+
+## Abstarct
 
 
 
-# requirements
+## Requirements
 
-## High level requirements
+### High level requirements
 * Use of ultrasonic sensor must be done in the project.
 * Use of LCD display.
 * Use of servo motor.
@@ -16,7 +19,7 @@
 * 
 
 
-## components required
+## Components required
 1.Arduino Uno
 * A arduino uno is a compact integrated circuit designed to govern a specific operation in an embedded system.
 
