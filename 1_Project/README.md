@@ -8,9 +8,13 @@ In the old times calculating distance was much difficult. But today it has becom
 ## Requirements
 
 ### High level requirements
-* Use of ultrasonic sensor must be done in the project.
-* Use of LCD display.
-* Use of servo motor.
+
+|ID  |                                         description |Category |Status     |
+|----|---------------------------------------------------- |---------|-----------|
+|HR01|Use of ultrasonic sensor must be done in the project |TECHNICAL|IMPLEMENTED|
+|HR02| Use of ultrasonic sensor must be done in the project|TECHNICAL|IMPLEMENTED|
+|HR03|Use of LCD display                                   |TECHNICAL|IMPLEMENTED|
+|HR04|Use of servo motor                                   |TECHNICAL|IMPLEMENTED|
 
 
 ## low level requirements
