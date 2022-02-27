@@ -18,8 +18,9 @@ In the old times calculating distance was much difficult. But today it has becom
 
 
 ## low level requirements
-|ID  |description                                                                                 |HLR |status              |
-|    |                                                                                            |ID  |(Implemented/Future)|
+|ID  |description                                                                                 |HLR |status              | 
+                                                                                                   id                     
+
 |----|--------------------------------------------------------------------------------------------|----|--------------------|
 |LR01| Here using ultrasonic sensor we can calculate the exact distance between the object        |HR01|IMPLEMENTED         |
 |LR02|By using LCD display we can keep a track of water level without actually measuring the depth|HR02|IMPLEMENTED         |
